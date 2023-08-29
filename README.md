@@ -10,4 +10,9 @@ Hosted Link:https://ankitkumar1303.github.io/Cat_App/
  <img width="1401" alt="Screenshot 2023-08-28 at 5 04 03 PM" src="https://github.com/AnkitKumar1303/Cat_App/assets/42855900/30948830-71f2-4c88-8b7d-2c6697ec1aa1">
 <img width="1440" alt="Screenshot 2023-08-28 at 5 04 13 PM" src="https://github.com/AnkitKumar1303/Cat_App/assets/42855900/8832a362-b693-429f-afac-fbdb53b0cdf6">
 
+Explanation:
+
+<img width="698" alt="Screenshot 2023-08-29 at 3 08 02 PM" src="https://github.com/AnkitKumar1303/Cat_App/assets/42855900/c2bcf01b-9709-495a-a4d4-278919c5f906">
+
+
  
